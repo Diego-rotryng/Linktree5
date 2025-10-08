@@ -1,0 +1,64 @@
+{
+  "slug": "clarisa-psico",
+  "profile": {
+    "name": "Clarisa Rozenbaum",
+    "headline": "Psicóloga · Sesiones Online y Presenciales",
+    "bio": "Acompaño procesos de cambio con enfoque humanista.",
+    "avatarUrl": "/images/clarisa.jpg"
+  },
+  "contact": {
+    "whatsapp": "+5491155155371",
+    "email": "contacto@clarisar.com.ar",
+    "phone": "+541143211234"
+  },
+  "actions": {
+    "whatsappQuick": true,
+    "book": {
+      "type": "calendly",
+      "url": "https://calendly.com/clarisa/30min"
+    },
+    "pay": {
+      "type": "mercadopago",
+      "url": "https://mpago.la/abc123"
+    },
+    "call": true,
+    "email": true
+  },
+  "social": {
+    "instagram": "https://instagram.com/clarisa",
+    "linkedin": "https://linkedin.com/in/clarisa"
+  },
+  "address": {
+    "label": "Av. Corrientes 999, CABA",
+    "mapsEmbed": "https://www.google.com/maps/embed?pb=..."
+  },
+  "links": [
+    {
+      "title": "Solicitar Turno",
+      "href": "https://calendly.com/clarisa/30min",
+      "pin": true
+    },
+    {
+      "title": "Podcast",
+      "href": "https://open.spotify.com/show/xyz"
+    }
+  ],
+  "theme": {
+    "preset": "claro",
+    "accent": "#22c55e"
+  },
+  "seo": {
+    "title": "Clarisa Rozenbaum | Psicóloga en CABA",
+    "description": "Sesiones online y presenciales. Agendá tu turno ya.",
+    "ogImage": "/images/og-clarisa.png",
+    "jsonLdType": "LocalBusiness"
+  },
+  "analytics": {
+    "gtmId": "GTM-XXXX",
+    "plausibleDomain": "clarisa.ayuda.com.ar"
+  },
+  "ops": {
+    "notifyEmail": "diego.rotryng@gmail.com",
+    "status": "active"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "slug": "la-parrilla",
+  "profile": {
+    "name": "La Parrilla de Barrio",
+    "headline": "Restaurante · Carnes a las brasas",
+    "bio": "Más de 20 años sirviendo las mejores carnes de Buenos Aires.",
+    "avatarUrl": "/images/parrilla-logo.png"
+  },
+  "contact": {
+    "whatsapp": "+5491167894321",
+    "email": "reservas@laparrilla.com"
+  },
+  "actions": {
+    "whatsappQuick": true,
+    "book": {
+      "type": "calendly",
+      "url": "https://calendly.com/laparrilla/reserva"
+    },
+    "pay": {
+      "type": "mercadopago",
+      "url": "https://mpago.la/xyz987"
+    }
+  },
+  "social": {
+    "instagram": "https://instagram.com/laparrillabarrio",
+    "facebook": "https://facebook.com/laparrillabarrio",
+    "spotify": "https://open.spotify.com/playlist/1Restaurante"
+  },
+  "address": {
+    "label": "Av. Corrientes 1234, CABA",
+    "mapsEmbed": "https://www.google.com/maps/embed?pb=..."
+  },
+  "promos": [
+    {
+      "title": "Parrillada para 2",
+      "price": "ARS 12.000",
+      "desc": "Incluye guarniciones + vino de la casa"
+    },
+    {
+      "title": "Menú ejecutivo",
+      "price": "ARS 6.500",
+      "desc": "Lun a vie · Entrada + principal + bebida"
+    }
+  ],
+  "testimonials": [
+    {
+      "author": "Juan Pérez",
+      "text": "La mejor carne que probé. Atención de 10."
+    },
+    {
+      "author": "Mariana Gómez",
+      "text": "Ambiente familiar y cálido. Súper recomendable."
+    }
+  ],
+  "theme": {
+    "preset": "oscuro",
+    "accent": "#22c55e"
+  },
+  "seo": {
+    "title": "La Parrilla de Barrio | CABA",
+    "description": "Reservá tu mesa. Parrilladas y menú ejecutivo.",
+    "ogImage": "/images/og-parrilla.png",
+    "jsonLdType": "LocalBusiness"
+  },
+  "ops": {
+    "notifyEmail": "diego.rotryng@gmail.com",
+    "status": "active"
+  }
+}

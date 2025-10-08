@@ -1,0 +1,53 @@
+{
+  "slug": "coach-fitness",
+  "profile": {
+    "name": "Agus Fit Coach",
+    "headline": "Entrenadora Personal · Planes Online",
+    "bio": "Planes personalizados, seguimiento semanal y hábitos sostenibles.",
+    "avatarUrl": "/images/agus.jpg"
+  },
+  "contact": {
+    "whatsapp": "+5491133344455",
+    "email": "hola@agusfit.co"
+  },
+  "actions": {
+    "whatsappQuick": true,
+    "book": {
+      "type": "calendly",
+      "url": "https://calendly.com/agusfit/intro"
+    },
+    "pay": {
+      "type": "mercadopago",
+      "url": "https://mpago.la/agusfit001"
+    }
+  },
+  "social": {
+    "instagram": "https://instagram.com/agusfit",
+    "youtube": "https://youtube.com/@agusfit",
+    "spotify": "https://open.spotify.com/show/agusfitpod"
+  },
+  "links": [
+    {
+      "title": "Plan 8 semanas",
+      "href": "https://agusfit.co/plan8"
+    },
+    {
+      "title": "E-book nutrición",
+      "href": "https://agusfit.co/ebook"
+    }
+  ],
+  "theme": {
+    "preset": "oscuro",
+    "accent": "#22c55e"
+  },
+  "seo": {
+    "title": "Agus Fit Coach | Online",
+    "description": "Entrenamiento personalizado y hábitos sostenibles.",
+    "ogImage": "/images/og-agus.png",
+    "jsonLdType": "Person"
+  },
+  "ops": {
+    "notifyEmail": "diego.rotryng@gmail.com",
+    "status": "active"
+  }
+}

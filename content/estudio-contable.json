@@ -1,0 +1,59 @@
+{
+  "slug": "estudio-contable",
+  "profile": {
+    "name": "Estudio Contable López & Asoc.",
+    "headline": "Monotributo · Autónomos · PyMEs",
+    "bio": "Más de 10 años ayudando a emprendedores a ordenar sus números.",
+    "avatarUrl": "/images/estudio-logo.png"
+  },
+  "contact": {
+    "whatsapp": "+5491144455566",
+    "email": "contacto@estudiolopez.com.ar",
+    "phone": "+541122334455"
+  },
+  "actions": {
+    "whatsappQuick": true,
+    "book": {
+      "type": "calendly",
+      "url": "https://calendly.com/estudiolopez/consulta"
+    },
+    "pay": {
+      "type": "mercadopago",
+      "url": "https://mpago.la/estudio123"
+    }
+  },
+  "social": {
+    "linkedin": "https://linkedin.com/company/estudiolopez",
+    "facebook": "https://facebook.com/estudiolopez"
+  },
+  "links": [
+    {
+      "title": "Guía Monotributo 2025",
+      "href": "https://estudiolopez.com.ar/guia-monotributo"
+    },
+    {
+      "title": "Checklist PyME",
+      "href": "https://estudiolopez.com.ar/checklist-pyme"
+    }
+  ],
+  "testimonials": [
+    {
+      "author": "Ana R.",
+      "text": "Me ordenaron todo y pude facturar sin dolores de cabeza."
+    }
+  ],
+  "theme": {
+    "preset": "oscuro",
+    "accent": "#22c55e"
+  },
+  "seo": {
+    "title": "Estudio Contable López | CABA",
+    "description": "Monotributo, Autónomos y PyMEs. Agendá tu consulta.",
+    "ogImage": "/images/og-estudio.png",
+    "jsonLdType": "Organization"
+  },
+  "ops": {
+    "notifyEmail": "diego.rotryng@gmail.com",
+    "status": "active"
+  }
+}

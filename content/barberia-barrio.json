@@ -1,0 +1,60 @@
+{
+  "slug": "barberia-barrio",
+  "profile": {
+    "name": "Barbería Barrio X",
+    "headline": "Cortes premium en 20’",
+    "bio": "Estilo clásico y moderno. Abrimos de martes a domingo.",
+    "avatarUrl": "/images/barber-logo.png"
+  },
+  "contact": {
+    "whatsapp": "+5491161112233",
+    "email": "turnos@barberiabarriox.com"
+  },
+  "actions": {
+    "whatsappQuick": true,
+    "book": {
+      "type": "whatsapp",
+      "url": "https://wa.me/5491161112233?text=Quiero%20un%20turno"
+    },
+    "pay": {
+      "type": "mercadopago",
+      "url": "https://mpago.la/barber123"
+    }
+  },
+  "social": {
+    "instagram": "https://instagram.com/barberiabarriox",
+    "tiktok": "https://tiktok.com/@barberiabarriox"
+  },
+  "promos": [
+    {
+      "title": "Pack Premium",
+      "price": "ARS 3.900",
+      "desc": "Corte + Barba · Toalla caliente"
+    },
+    {
+      "title": "Estudiantes -10%",
+      "price": "",
+      "desc": "Con credencial vigente"
+    }
+  ],
+  "links": [
+    {
+      "title": "Catálogo de estilos",
+      "href": "https://instagram.com/barberiabarriox/highlights"
+    }
+  ],
+  "theme": {
+    "preset": "oscuro",
+    "accent": "#22c55e"
+  },
+  "seo": {
+    "title": "Barbería Barrio X | CABA",
+    "description": "Cortes premium en 20 minutos. Reservá por WhatsApp.",
+    "ogImage": "/images/og-barber.png",
+    "jsonLdType": "LocalBusiness"
+  },
+  "ops": {
+    "notifyEmail": "diego.rotryng@gmail.com",
+    "status": "active"
+  }
+}
