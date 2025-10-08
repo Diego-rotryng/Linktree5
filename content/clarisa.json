@@ -1,0 +1,56 @@
+{
+  "slug": "clarisa-psicologa-caba",
+  "profile": {
+    "name": "Clarisa Rozenbaum",
+    "headline": "Psicóloga – Sesiones Online y Presenciales",
+    "bio": "Acompaño procesos de cambio con enfoque humanista. Trabajo con adultos en terapia individual, abordando ansiedad, depresión y desarrollo personal.",
+    "avatarUrl": "/images/clarisa.jpg"
+  },
+  "contact": {
+    "whatsapp": "+54 9 11 5515 5371",
+    "email": "contacto@clarisar.com.ar"
+  },
+  "actions": {
+    "whatsappQuick": true,
+    "book": {
+      "type": "calendly",
+      "url": "https://calendly.com/clarisa/30min"
+    },
+    "pay": {
+      "type": "mercadopago",
+      "url": "https://mpago.la/abc123"
+    }
+  },
+  "social": {
+    "instagram": "https://instagram.com/clarisa.psi",
+    "linkedin": "https://linkedin.com/in/clarisa-rozenbaum"
+  },
+  "address": {
+    "label": "Av. Santa Fe 1234, CABA",
+    "mapsEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3284.0168878735973!2d-58.38375908477065!3d-34.60373098045943!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzTCsDM2JzEzLjQiUyA1OMKwMjInNTcuNSJX!5e0!3m2!1sen!2sar!4v1234567890"
+  },
+  "links": [
+    {
+      "title": "Solicitar Turno",
+      "href": "https://calendly.com/clarisa/30min"
+    },
+    {
+      "title": "Pagar Consulta",
+      "href": "https://mpago.la/abc123"
+    }
+  ],
+  "theme": {
+    "preset": "claro",
+    "accent": "#0d9488"
+  },
+  "seo": {
+    "title": "Clarisa Rozenbaum | Psicóloga en CABA",
+    "description": "Sesiones online y presenciales. Agenda tu turno ya.",
+    "ogImage": "/images/og-clarisa.png",
+    "jsonLdType": "LocalBusiness"
+  },
+  "ops": {
+    "notifyEmail": "diego.rotryng@gmail.com",
+    "status": "active"
+  }
+}
